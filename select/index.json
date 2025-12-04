@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "放送室",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-04T13:27:54.474432Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "放送室",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/01_放送室_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "放送室",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/02_放送室_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "放送室",
+      "artist": "Hoshimachi Suisei, MI8k, MI8k, MI8k",
+      "has_synced": true,
+      "path": "select/03_放送室_Hoshimachi_Suisei,_MI8k,_MI8k,_MI8k.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "放送室 / My Happy Transmission",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/04_放送室___My_Happy_Transmission_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "放送室",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_放送室_星街すいせい.txt"
+    }
+  ]
+}
